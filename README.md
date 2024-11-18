@@ -6,6 +6,7 @@
 ![過程圖2](https://github.com/wjx-zhao/TcpFileServer/blob/d2626d4a831c2748f881aa981af1ac7e7096c7f9/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-18%20165922.png "圖 2")
 ![過程圖3](https://github.com/wjx-zhao/TcpFileServer/blob/b25def4407c55fca6f8469611c04210c4e3062db/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-18%20165953.png "圖 3")
 ![過程圖4](https://github.com/wjx-zhao/TcpFileServer/blob/b25def4407c55fca6f8469611c04210c4e3062db/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-18%20170030.png "圖 4")
+![結果](https://github.com/wjx-zhao/TcpFileServer/blob/1fc0afcf9ba8c88e0da5c644851c9cc4eba40f79/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-11-18%20173107.png "結果")
 
 ---
 
