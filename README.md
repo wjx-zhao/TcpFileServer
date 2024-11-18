@@ -10,7 +10,4 @@
 ---
 
 ## 2. 執行結果
-![執行結果圖](images/result.png "執行結果示意")
-
-
-螢幕擷取畫面 2024-11-18 165907.png
+![執行結果圖](https://github.com/wjx-zhao/TcpFileServer/blob/43502b5b4bb9426d3f665eccf5ddf756f63f4495/%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C.png "執行結果示意")
